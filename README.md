@@ -1,5 +1,6 @@
 # BlockXter
 Site dynamique d'une médiathèque fictive avec Bootstrap.
+Ce projet est archivé (.zip) en raison du nombre important de fichiers...
 
 ## Configuration
 
